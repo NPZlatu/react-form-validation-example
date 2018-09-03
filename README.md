@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
@@ -2484,3 +2485,7 @@ In the future, we might start automatically compiling incompatible third-party m
 ## Something Missing?
 
 If you have ideas for more “How To” recipes that should be on this page, [let us know](https://github.com/facebookincubator/create-react-app/issues) or [contribute some!](https://github.com/facebookincubator/create-react-app/edit/master/packages/react-scripts/template/README.md)
+=======
+# react-form-validation-example
+Being a newbie to ReactJs, I found it difficult to implement form validations in it. Many tutorials instruct to use third party libraries for the purpose. So, I tried to create a simple react form example that deals with validation without having to use third party libraries. I hope it will be useful for the developers who are beginners in react. 
+>>>>>>> 35c691450fbc411f6b6c7a9c83ed549c6adb7d54
