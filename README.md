@@ -1,5 +1,3 @@
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
-
 You can find the output [here](https://itsmenirajpaudel.github.io/react-form-validation-example/).
 
 ## Folder Structure
@@ -25,12 +23,10 @@ my-app/
     index.js
 ```
 
-## How to use it?
-
 Download the project using
 
-### `git clone https://itsmenirajpaudel.github.io/react-form-validation-example`
+##`git clone https://itsmenirajpaudel.github.io/react-form-validation-example`
 
 In the project directory, you can run:
 
-### `npm start`
+## `npm start`
