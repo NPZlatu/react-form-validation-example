@@ -25,7 +25,7 @@ my-app/
 
 Download the project using
 
-##`git clone https://itsmenirajpaudel.github.io/react-form-validation-example`
+## `git clone https://itsmenirajpaudel.github.io/react-form-validation-example`
 
 In the project directory, you can run:
 
