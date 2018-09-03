@@ -1,0 +1,13 @@
+body {
+    background-color: #fff;
+    height: 100%;
+}
+
+.center-div {
+    min-height: 100%;
+    height: 100%;
+}
+
+.error-text {
+    color: rgb(204, 81, 81);
+}
