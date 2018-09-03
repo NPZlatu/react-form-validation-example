@@ -2,7 +2,7 @@
     "name": "myversion",
     "version": "0.1.0",
     "private": false,
-    "homepage": "https://github.com/itsmenirajpaudel/react-form-validation-example/",
+    "homepage": "https://itsmenirajpaudel.github.io/react-form-validation-example",
     "dependencies": {
         "gh-pages": "^1.2.0",
         "react": "^16.4.2",

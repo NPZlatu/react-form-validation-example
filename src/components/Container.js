@@ -3,7 +3,7 @@ import { Nav } from "./Nav";
 import { Form } from "./Form";
 import { Home } from "./Home";
 
-export default class Todo extends React.Component {
+export default class Container extends React.Component {
     constructor() {
         super();
         this.handleOnSubmit = this.handleOnSubmit.bind(this);
@@ -14,7 +14,6 @@ export default class Todo extends React.Component {
     }
 
     handleOnSubmit(isLoggedIn) {
-        const status = isLoggedIn ? "Logged In" : "Logged Out";
         this.setState(function() {
             return {
                 status: "Logged In",
